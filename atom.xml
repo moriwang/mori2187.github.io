@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moriwang.github.io</id>
-    <title></title>
-    <updated>2021-03-02T05:57:52.059Z</updated>
+    <title>blog</title>
+    <updated>2021-03-02T06:06:05.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moriwang.github.io"/>
     <link rel="self" href="https://moriwang.github.io/atom.xml"/>
     <logo>https://moriwang.github.io/images/avatar.png</logo>
     <icon>https://moriwang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, </rights>
+    <rights>All rights reserved 2021, blog</rights>
 </feed>
