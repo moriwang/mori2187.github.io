@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moriwang.github.io</id>
     <title>blog</title>
-    <updated>2021-03-02T13:33:21.533Z</updated>
+    <updated>2021-03-03T01:22:16.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moriwang.github.io"/>
     <link rel="self" href="https://moriwang.github.io/atom.xml"/>
@@ -32,6 +32,7 @@
 <li>吃荤，但不吃羊肉</li>
 <li>吃荤，但不吃内脏</li>
 <li>吃荤，但不吃除了常见家畜以外的肉，比如狗肉、兔肉等。</li>
+<li>不吃牛肉，但吃和牛</li>
 </ul>
 <p>总结我的同学，同事的说法，也可以大致分为以下几种：</p>
 <ul>
@@ -41,6 +42,7 @@
 </ul>
 <h2 id="我吃肉的原因">我吃肉的原因</h2>
 <p>肉可真是太香了。</p>
+<p>今次先写那么多，日后有新的想法再做补充。</p>
 ]]></content>
     </entry>
 </feed>

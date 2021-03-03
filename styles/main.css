@@ -371,7 +371,10 @@ ul li {
   word-wrap: break-word;
 }
 .gt-post-content a {
-  transition: all 0.3s;
+  transition: none;
+}
+.gt-post-content a:hover {
+  border-bottom: solid 1px #5e5e5e;
 }
 .gt-post-content img {
   display: block;
